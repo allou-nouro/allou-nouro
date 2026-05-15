@@ -41,33 +41,28 @@ const developer = {
 
 ## ◈ Tech Stack
 
-### 🖥️ Frontend
-![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-
-### ⚙️ Backend
-![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-
-### 📱 Mobile
-![React Native](https://img.shields.io/badge/React_Native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-
-### 🗄️ Databases & Cloud
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+<div align="center">
 
 ### 💻 Languages
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+[![My Skills](https://skillicons.dev/icons?i=ts,python,java,c&theme=dark)](https://skillicons.dev)
+
+### 🖥️ Frontend & UI
+[![My Skills](https://skillicons.dev/icons?i=react,nextjs,html,css&theme=dark)](https://skillicons.dev)
+
+### ⚙️ Backend
+[![My Skills](https://skillicons.dev/icons?i=nodejs,express&theme=dark)](https://skillicons.dev)
+
+### 📱 Mobile
+[![My Skills](https://skillicons.dev/icons?i=react&theme=dark)](https://skillicons.dev)
+> React Native
+
+### 🗄️ Databases & Cloud
+[![My Skills](https://skillicons.dev/icons?i=mongodb,firebase,supabase&theme=dark)](https://skillicons.dev)
 
 ### 🛠️ Tools & Automation
-![n8n](https://img.shields.io/badge/n8n-%23EA4B71.svg?style=for-the-badge&logo=n8n&logoColor=white)
-![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+[![My Skills](https://skillicons.dev/icons?i=git,github,postman,vscode&theme=dark)](https://skillicons.dev)
+
+</div>
 
 <br/>
 
